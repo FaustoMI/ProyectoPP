@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 
 --
 -- Estructura de tabla para la tabla `productos`
--- 123123
+-- 
 
 CREATE TABLE `productos` (
   `id` int(11) NOT NULL,
